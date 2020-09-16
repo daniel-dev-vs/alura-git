@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4def7ce-239d-4e35-95f7-55de33d4e281" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CodeSignal/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeSignal/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeSignal/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeSignal/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CodeSignal/CodeSignal.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gerenciador.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testes-cap1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testes-cap1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testes-cap1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testes-cap1/.idea/testes-cap1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testes-cap1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/.jsdtscope" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/.jsdtscope" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/bemvindo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/empresa-cadastrada.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/listar-empresas.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/nova-empresa.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/gerenciador/modelo/Banco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/gerenciador/modelo/Empresa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/gerenciador/servlet/EmpresaCadastrada.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/gerenciador/servlet/ListarEmpresa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/gerenciador/servlet/NovaEmpresa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/caelum/gerenciador/servlet/OiMundo.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hbbioBTTme7NhUTxVQazkSf4nf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d4def7ce-239d-4e35-95f7-55de33d4e281" name="Default Changelist" comment="" />
+      <created>1600282875007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600282875007</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="618" y="299" width="735" height="520" key="FileChooserDialogImpl" timestamp="1600283652804">
+      <screen x="72" y="26" width="1848" height="1054" />
+    </state>
+    <state x="618" y="299" width="735" height="520" key="FileChooserDialogImpl/72.26.1848.1054/1920.0.1920.1080@72.26.1848.1054" timestamp="1600283652804" />
+    <state x="479" y="130" width="1024" height="852" key="SettingsEditor" timestamp="1600283666613">
+      <screen x="72" y="26" width="1848" height="1054" />
+    </state>
+    <state x="479" y="130" width="1024" height="852" key="SettingsEditor/72.26.1848.1054/1920.0.1920.1080@72.26.1848.1054" timestamp="1600283666613" />
+    <state x="305" y="155" width="1372" height="803" key="new project wizard" timestamp="1600284978195">
+      <screen x="72" y="26" width="1848" height="1054" />
+    </state>
+    <state x="305" y="155" width="1372" height="803" key="new project wizard/72.26.1848.1054/1920.0.1920.1080@72.26.1848.1054" timestamp="1600284978195" />
+  </component>
+</project>
