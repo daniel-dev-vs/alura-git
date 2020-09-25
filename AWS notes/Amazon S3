@@ -1,0 +1,18 @@
+Amazon S3
+
+ -Managed cloud storage service
+ -store virtually unlimited number of objects
+ -access any time, from anywhere.
+ -rich security controls.
+ 
+ All buckets can be access with a key to all resources.
+ 
+ common use cases.
+ 
+ storing application assets.
+ static web hosting
+ backup & disaster recovery
+ staging area for big data
+ many more...
+ 
+ 

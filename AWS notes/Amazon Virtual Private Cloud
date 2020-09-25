@@ -1,0 +1,34 @@
+Amazon Virtual Private Cloud VPC
+
+pay as you go.
+
+the VPC is AWS Service that bring to us a network in the cloud.
+
+Private, virtual network in the AWS CLOUD.
+conceps of network as premise
+
+Allows complete control of network configuration.
+Ability to isolate and expose resources inside VPC.
+
+Offers several layers of security controls
+-ability to allow and deny specific internet and internal traffic
+
+Other AWS SErvice deploy into VPV
+Servces inherent security built into network
+
+All complicated subjects is easier with the VPC, like configuration, control security and usability.
+
+Integrate with a numerous of others Amazon AWS Services
+
+Available on AWS REgions and Avaiability zones.
+Amazon vpc lives whithin a region
+multiple vpcs per account
+
+subnets
+
+Route tables - control traffic on the internet
+
+internet gateway
+NAT gateway
+
+Network Access Control lists - NACL,
